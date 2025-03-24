@@ -1,0 +1,6 @@
+---
+title: "AMR_Data_Dictionary"
+---
+## About
+
+This web page provides a metadata information about the datafiles used for the course Intro to R, database reproducibility for AMR epi.
