@@ -5,7 +5,7 @@ title: "AMR_Data_Dictionary"
 
 This web page provides a metadata information about the datafiles used for the course Intro to R, database reproducibility for AMR epi.
 
- Data files:
+### Data files:
 
 - gapminder_data.csv
 - gapminder_wide.csv
@@ -13,3 +13,5 @@ This web page provides a metadata information about the datafiles used for the c
 - hgt_wgt.csv
 - icd10_data.csv
 - dig_health_hub_amr_v2.csv
+
+
