@@ -7,6 +7,8 @@ This web page provides a metadata information about the datafiles used for the c
 
 ### Data files:
 
+ A. variety of existing and bespoke synthetic data files were used for training
+### Gapminder files
 - gapminder_data.csv
 - gapminder_wide.csv
 
@@ -18,4 +20,11 @@ This web page provides a metadata information about the datafiles used for the c
 - icd10_data.csv
 - dig_health_hub_amr_v2.csv
 
+## Meta data information
 
+## hgt_wgt.csv
+
+Gender: Numeric 0 or 1 ,1 indicating male
+Age: Text
+Height (cm): Numeric
+Weight (kg): Numeric
